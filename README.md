@@ -1,5 +1,5 @@
 # Stepin_EmbeddedC
-# Embedded C Project
+## Embedded C Project
 
 ### Seat Heat Application System
 
@@ -12,12 +12,20 @@ The operation of the heat control system is coded in embedded c and the working 
 
 This system is usually done in 3 steps or in 3 activities
 
- * When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
- * Then the analog input from the temperature sensor is received and digitized using ADC.
- * The digitized temperature input is visualized using Pulse Width Modulation.
+*  When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
+*  Then the analog input from the temperature sensor is received and digitized using ADC.
+*  The digitized temperature input is visualized using Pulse Width Modulation.
  
-## STEP-1 
-#### OFF
-![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/7bc960bd1a8445aa6fc6a9d36d8bbb5b2cc44da5/simulation/Step_1Diagrams/Step_1OFF.PNG)
+## Step-1 
 
------------------------------------------------------------------------------------------------------------------------------------
+|OFF|ON|
+|:--:|:--:|
+|![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/7bc960bd1a8445aa6fc6a9d36d8bbb5b2cc44da5/simulation/Step_1Diagrams/Step_1OFF.PNG) |![ON](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_1Diagrams/Step_1ON.png)|
+
+## Step-2
+|OFF|ON|
+|:--:|:--:|
+|![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_2Diagrams/Step_2OFF.png) |![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_2Diagrams/Step_2ON.png)
+
+## Step-3
+|![diagram](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_3.png)

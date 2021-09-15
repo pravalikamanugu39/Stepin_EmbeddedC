@@ -16,3 +16,10 @@ This system is usually done in 3 steps or in 3 activities
  * Then the analog input from the temperature sensor is received and digitized using ADC.
  * The digitized temperature input is visualized using Pulse Width Modulation.
  
+## STEP-1 
+#### OFF
+![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/7bc960bd1a8445aa6fc6a9d36d8bbb5b2cc44da5/simulation/Step_1Diagrams/Step_1OFF.PNG)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+#### ON
+![ON]

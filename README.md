@@ -5,6 +5,8 @@
 
 [![Code Inspector](https://www.code-inspector.com/project/28692/status/svg)
 
+[![Cppcheck](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/CodeQuality.yml)
+
 
 ## Embedded C Project
 

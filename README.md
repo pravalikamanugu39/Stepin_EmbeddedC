@@ -4,6 +4,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/13b74afff6b6486a899340bb716237ee)](https://app.codacy.com/gh/pravalikamanugu39/Stepin_EmbeddedC?utm_source=github.com&utm_medium=referral&utm_content=pravalikamanugu39/Stepin_EmbeddedC&utm_campaign=Badge_Grade_Settings)
 [![Cppcheck](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/CodeQuality.yml)
 [![Compile-Linux](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/Compile.yml)
+![CodeInspector](https://www.code-inspector.com/project/28692/score/svg)
+![CodeInspector](https://www.code-inspector.com/project/28692/status/svg)
 ## Embedded C Project
 
 ### Seat Heat Application System

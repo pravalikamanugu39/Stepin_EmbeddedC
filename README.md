@@ -22,11 +22,13 @@ This system is usually done in 3 steps or in 3 activities
 
 |OFF|ON|
 |:--:|:--:|
-
+|![](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/9e1bbc09de7fbb13429fcead3f12e3324fd0578e/6_Images/Step_1OFF.PNG)|![](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/9e1bbc09de7fbb13429fcead3f12e3324fd0578e/6_Images/Step_1ON.png)|
 
 ## Step-2
 |OFF|ON|
 |:--:|:--:|
+|![](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/9e1bbc09de7fbb13429fcead3f12e3324fd0578e/6_Images/Step_2OFF.png)|![](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/9e1bbc09de7fbb13429fcead3f12e3324fd0578e/6_Images/Step_2ON.png)|
 
 ## Step-3
-|![diagram]
+|![](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/9e1bbc09de7fbb13429fcead3f12e3324fd0578e/6_Images/Step_3.png)|
+

@@ -1,14 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Stepin_EmbeddedC
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/13b74afff6b6486a899340bb716237ee)](https://app.codacy.com/gh/pravalikamanugu39/Stepin_EmbeddedC?utm_source=github.com&utm_medium=referral&utm_content=pravalikamanugu39/Stepin_EmbeddedC&utm_campaign=Badge_Grade_Settings)
-[![Code Inspector](https://www.code-inspector.com/project/28692/score/svg)
-
-[![Code Inspector](https://www.code-inspector.com/project/28692/status/svg)
-
-[![Cppcheck](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/CodeQuality.yml)
-[![Compile-Linux](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/actions/workflows/Compile.yml)
-
 
 ## Embedded C Project
 
@@ -31,15 +23,11 @@ This system is usually done in 3 steps or in 3 activities
 
 |OFF|ON|
 |:--:|:--:|
-|![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/7bc960bd1a8445aa6fc6a9d36d8bbb5b2cc44da5/simulation/Step_1Diagrams/Step_1OFF.PNG) |![ON](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_1Diagrams/Step_1ON.png)|
+
 
 ## Step-2
 |OFF|ON|
 |:--:|:--:|
-|![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_2Diagrams/Step_2OFF.png) |![OFF](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_2Diagrams/Step_2ON.png)
 
 ## Step-3
-|![diagram](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_3.png)
-=======
-
->>>>>>> 2242b64875c4479fddfa72fb147147b68c185b34
+|![diagram]

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Stepin_EmbeddedC
 
 ## Embedded C Project

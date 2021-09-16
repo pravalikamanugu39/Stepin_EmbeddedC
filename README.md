@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stepin_EmbeddedC
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/13b74afff6b6486a899340bb716237ee)](https://app.codacy.com/gh/pravalikamanugu39/Stepin_EmbeddedC?utm_source=github.com&utm_medium=referral&utm_content=pravalikamanugu39/Stepin_EmbeddedC&utm_campaign=Badge_Grade_Settings)
@@ -39,3 +40,6 @@ This system is usually done in 3 steps or in 3 activities
 
 ## Step-3
 |![diagram](https://github.com/pravalikamanugu39/Stepin_EmbeddedC/blob/678299ac37ed3a0e8e123d14af219f16c4c90c68/simulation/Step_3.png)
+=======
+
+>>>>>>> 2242b64875c4479fddfa72fb147147b68c185b34

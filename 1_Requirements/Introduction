@@ -10,3 +10,15 @@ This system is usually done in 3 steps or in 3 activities
 *   When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
 *   Then the analog input from the temperature sensor is received and digitized using ADC.
 *   The digitized temperature input is visualized using Pulse Width Modulation.
+
+### HIGH LEVEL REQUIREMENT
+|ID|DESCRIPTION|
+|:--:|:--:|
+|HR01|Atmega328 microcontroller| 
+|HR02|Changing the temperature|
+|HR03|Heater|
+
+### LOW LEVEL REQUIREMENT
+|ID|DESCRIPTION|
+|:--:|:--:|
+|LR01|Display the temperature |
